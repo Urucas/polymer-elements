@@ -1,0 +1,32 @@
+{
+  "name": "polymer-elements",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Urucas/polymer-elements",
+  "authors": [
+    "Bruno Alassia <vruno.alassia@gmail.com>"
+  ],
+  "description": "Urucas first polymer elements",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "javascript",
+    "polymer",
+    "google",
+    "html",
+    "js",
+    "dom"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.2.4",
+    "core-elements": "Polymer/core-elements#~0.2.4"
+  }
+}
